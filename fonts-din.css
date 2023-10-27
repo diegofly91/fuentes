@@ -1,0 +1,52 @@
+
+
+@font-face {
+    font-family: "din-regular";
+    src: url("../fonts/din-regular.eot");
+    src: local("?"),
+    url("../fonts/din-regular.woff") format("woff"),
+    url("../fonts/din-regular.ttf") format("truetype"),
+    url("../fonts/din-regular.svg#blaimim_-webfont") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "din-light";
+    src: url("../fonts/din-light.eot");
+    src: local("?"),
+    url("../fonts/din-light.woff") format("woff"),
+    url("../fonts/din-light.ttf") format("truetype"),
+    url("../fonts/din-light.svg#blaimim_-webfont") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "din-medium";
+    src: url("../fonts/din-medium.eot");
+    src: local("?"),
+    url("../fonts/din-medium.woff") format("woff"),
+    url("../fonts/din-medium.ttf") format("truetype"),
+    url("../fonts/din-medium.svg#blaimim_-webfont") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "din-bold";
+    src: url("../fonts/din-bold.eot");
+    src: local("?"),
+    url("../fonts/din-bold.woff") format("woff"),
+    url("../fonts/din-bold.ttf") format("truetype"),
+    url("../fonts/din-bold.svg#blaimim_-webfont") format("svg");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "din-black";
+    src: url("../fonts/din-black.eot");
+    src: local("?"),
+    url("../fonts/din-black.woff") format("woff"),
+    url("../fonts/din-black.ttf") format("truetype"),
+    url("../fonts/din-black.svg#blaimim_-webfont") format("svg");
+    font-style: normal;
+    font-weight: normal;
+}
